@@ -1,0 +1,21 @@
+{
+  "name": "@dragula/workspace",
+  "private": true,
+  "description": "Drag and drop so simple",
+  "repository": "git@github.com:ts-react/dragula.git",
+  "author": "wangxingkang wang_xingkang@qq.com",
+  "license": "MIT",
+  "scripts": {
+    "bootstrap": "yarn && lerna bootstrap"
+  },
+  "devDependencies": {
+    "@walrus/cli": "^0.2.2",
+    "lerna": "^3.18.3",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  },
+  "workspaces": [
+    "packages/*",
+    "examples/*"
+  ]
+}

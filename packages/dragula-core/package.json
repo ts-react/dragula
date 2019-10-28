@@ -1,0 +1,7 @@
+{
+  "name": "@dragula/core",
+  "version": "0.0.1",
+  "description": "Drag and drop so simple",
+  "main": "index.js",
+  "license": "MIT"
+}

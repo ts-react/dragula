@@ -1,0 +1,7 @@
+{
+  "name": "@dragula/react",
+  "version": "0.0.1",
+  "description": "dragula react component",
+  "main": "index.js",
+  "license": "MIT"
+}
